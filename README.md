@@ -2,6 +2,9 @@
 Study project using SwiftUI framework and Combine.
 
 SwiftUI
+
 Combine
+
 Custom AppIcon
-Dark Mode
+
+Support to Dark Mode
